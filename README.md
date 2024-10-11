@@ -1,1 +1,1 @@
-# 该仓库存放javaweb作业
+# 该仓库存放JavaWeb作业
